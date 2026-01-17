@@ -1,2 +1,1 @@
-# MyFirstSubmission
 # My First Submission
